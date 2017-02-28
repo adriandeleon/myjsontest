@@ -1,6 +1,6 @@
 {
-  "newVersion": "1.0.0",
-  "apkUrl": "https://example.net/example.apk",
+  "newVersion": "1.0",
+  "apkUrl": "https://github.com/adriandeleon/myjsontest/blob/master/app-debug.apk?raw=true",
   "versionNotes": [
     "- Bug fixes"
   ]
